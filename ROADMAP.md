@@ -6,7 +6,6 @@ v1.0.0
 Next milestone
 - View Engine
 - Base Controller
-- View Renderer
 
 Future templates
 - CRUD

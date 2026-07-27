@@ -1,6 +1,6 @@
 {
-    "name": "pictelle/crud-mvc-template",
-    "description": "Reusable PHP MVC CRUD template",
+    "name": "pictelle/php-mvc-starter",
+    "description": "Reusable PHP MVC starter template",
     "license": "MIT",
     "authors": [
         {

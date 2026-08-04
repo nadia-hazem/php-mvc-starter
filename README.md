@@ -109,22 +109,43 @@ The objective is not to compete with Laravel or Symfony, but to learn the underl
 
 ---
 
+---
+
 ## Roadmap
 
-* ✅ Composer & PSR-4
-* ✅ Router
-* ✅ Dynamic Controller Dispatch
-* ⬜ View Engine
-* ⬜ Database Connection
-* ⬜ Models
-* ⬜ CRUD Operations
-* ⬜ Validation
-* ⬜ Sessions
+### Foundation Series
+
+* ✅ #1 MVC Starter
+
+* ⬜ #2 CRUD
+
+* ⬜ #3 View Engine
+
+* ⬜ #4 Route Parameters
+
+---------------------
+
+### Advanced Series
+
 * ⬜ Authentication
-* ⬜ File Upload
+
+* ⬜ Dashboard
+
+* ⬜ Upload Images
+
+* ⬜ Search & Autocomplete
+
 * ⬜ Pagination
 
+* ⬜ Membership
+
+* ⬜ Calendar
+
+* ⬜ Reservation
+
+* ⬜ Comments
 ---
+
 
 ## Learning Goals
 

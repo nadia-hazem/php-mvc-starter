@@ -117,11 +117,11 @@ The objective is not to compete with Laravel or Symfony, but to learn the underl
 
 * ✅ #1 MVC Starter
 
-* ⬜ #2 CRUD
+* 🟩 #2 CRUD
 
-* ⬜ #3 View Engine
+* 🟩 #3 View Engine
 
-* ⬜ #4 Route Parameters
+* 🟩 #4 Route Parameters
 
 ---------------------
 

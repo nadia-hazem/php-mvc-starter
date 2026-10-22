@@ -57,7 +57,7 @@ crud-mvc-template/
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/crud-mvc-template.git
+git clone https://github.com/your-username/php-mvc-starter.git
 ```
 
 Install dependencies
